@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @womyo
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Django, Node.js, Vue.js
+- 👀 I’m interested in Web Backend Programming
+- 🌱 I’m currently learning Node.js Express, Nest.js, Spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
