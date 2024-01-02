@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @womyo
 - 👀 I’m interested in Web Backend Programming
-- 🌱 I’m using SpringBoot, Nest.js
+- 🌱 I’m using SpringBoot, Nest.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
