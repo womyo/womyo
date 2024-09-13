@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Womyo's%20playground&fontSize=40)
 
 <h2 align="center">
-  Welcome! I'm Harry Lee 🤗
+  Welcome! I'm Inho Lee 🤗
 </h2>
 
 ### 🦾 Tech Stack
