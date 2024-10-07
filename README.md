@@ -9,9 +9,7 @@
 ![UIKit](https://img.shields.io/badge/uikit-2396F3?style=flat&logo=uikit&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/swiftui-0078D6?style=flat&logo=swift&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 
 ### 🏆 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=womyo&show_icons=true&theme=tokyonight)
