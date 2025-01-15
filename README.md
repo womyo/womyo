@@ -12,8 +12,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 🏆 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=womyo&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=womyo&show_icons=true&theme=tokyonight) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=womyo&layout=compact&theme=dracula)
 <!---
 womyo/womyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
