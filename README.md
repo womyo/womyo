@@ -11,6 +11,9 @@
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 
+### 🎖 Awards
+- 🏅 2025 서울청 코딩대회, HIT! K-JOB STAR 입상
+
 ### 🏆 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=womyo&show_icons=true&theme=tokyonight) 
 
